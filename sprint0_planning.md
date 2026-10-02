@@ -10,9 +10,9 @@ y repositorio en GitHub con al menos 10 commits.
 
 | ID | Historia | Puntos | Estado |
 |---|---|---|---|
-| HU-E1-01 | Entorno portable USB | 3 | 🔄 En progreso |
-| HU-E1-02 | Scripts de sincronización | 2 | 🔄 En progreso |
-| HU-E1-03 | Repositorio en GitHub | 2 | ⏳ Pendiente |
+| HU-E1-01 | Entorno portable USB | 3 | ✅ Terminado |
+| HU-E1-02 | Scripts de sincronización | 2 | ✅ Terminado |
+| HU-E1-03 | Repositorio en GitHub | 2 | ✅ Terminado |
 | HU-E1-04 | Despliegue en Render.com | 3 | ⏳ Pendiente |
 
 **Total de puntos del sprint:** 10
@@ -31,6 +31,19 @@ y repositorio en GitHub con al menos 10 commits.
 | Crear vista de bienvenida | Dev | ✅ | 0.3 h |
 | product_backlog.md + sprint0_planning.md | Dev | ✅ | 0.5 h |
 | Primer commit en GitHub | Dev | ✅ | 0.3 h |
+
+## Sprint Backlog — W02 (actualización de estados)
+
+| Tarea | Estado |
+|---|---|
+| Crear templates/base.html con Fable 5 AzulERP | ✅ |
+| Crear 5 plantillas index.html por app | ✅ |
+| Migrar vistas a views.py con render() | ✅ |
+| Configurar WhiteNoise y STATIC_ROOT | ✅ |
+| Crear core/settings_prod.py borrador | ✅ |
+| Actualizar requirements.txt (gunicorn, psycopg2) | ✅ |
+| Crear tests/test_w02_mvt.py — 12 tests OK | ✅ |
+| HU-E1-03 Repositorio GitHub: avance W02 commiteado | ✅ |
 
 ## Criterios de aceptación del Sprint 0
 - python manage.py check → 0 issues
