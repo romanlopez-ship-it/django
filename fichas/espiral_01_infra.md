@@ -49,3 +49,13 @@ posterior tenga una URL pública verificable desde el inicio del proyecto.
 - [ ] Captura de pantalla: `evidencias/espiral_01/manage_check.png`
 - [ ] Resultado de tests: `Ran 33 tests in X.XXXs — OK`
 - [ ] Commit de cierre:
+
+- [ ] Fechas de inicio y cierre correctas
+- [ ] Tabla de tareas con estados y tiempos reales
+- [ ] URL pública pegada en evidencias
+- [ ] Resultado de "git log --oneline -5" pegado
+- [ ] Todos los criterios de aceptación marcados
+- [ ] Problemas encontrados documentados (al menos 1)
+- [ ] 3 lecciones aprendidas redactadas
+- [ ] Tiempo total invertido calculado
+- [ ] Campo "Conexión con trabajo recepcional" completado
