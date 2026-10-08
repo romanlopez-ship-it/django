@@ -21,7 +21,7 @@ from django.conf.urls.static import static
 from django.contrib.auth import get_user_model
 from django.db.utils import IntegrityError
 from . import views
-
+'''
 User = get_user_model()
 try:
     # Intenta crear el superusuario usando el método oficial de Django
@@ -30,7 +30,7 @@ try:
 except IntegrityError:
     # Si el usuario ya existe, no hace nada y evita que el servidor falle
     pass
-
+'''
 urlpatterns = [
     path('admin/',       admin.site.urls),
     path('',             views.bienvenida,             name='inicio'),
